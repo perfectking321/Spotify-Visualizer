@@ -2,7 +2,11 @@
 
 Full-screen Spotify visualizer overlay for Hyprland, built with [QuickShell](https://quickshell.outfoxxed.me/) QML.
 
-![preview](https://i.imgur.com/placeholder.png)
+
+
+https://github.com/user-attachments/assets/039c20de-edbc-4d60-84fe-3c8d76698d82
+
+
 
 ## Features
 
